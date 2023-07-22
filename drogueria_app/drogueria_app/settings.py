@@ -71,7 +71,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'drogueria_app.wsgi.application'
+WSGI_APPLICATION = 'drogueria_app.wsgi.app'
 
 
 # Database
